@@ -1,4 +1,4 @@
-### Olá! Eu sou a Flávia Fogaça
+### Olá! Me chamo Flávia, prazer!
 
 
 - 🌱 Estou em transição de carreira. Atualmente estudando programação front-end.

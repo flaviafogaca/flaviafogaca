@@ -1,7 +1,7 @@
 ### Olá! Sou a Flávia Fogaça 👋
 
 
-🌱 Estou em transição de carreira. Atualmente estudando programação front-end.
+-📖 Estou em transição de carreira. Atualmente estudando programação front-end.
 
 
 <div align="center">

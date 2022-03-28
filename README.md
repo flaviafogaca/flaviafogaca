@@ -1,7 +1,6 @@
 ### Olá! Me chamo Flávia Fogaça 👋
 
-
--📖 Estou em transição de carreira. Atualmente estudando desenvolvimento Web.
+  - 📖 Estou em transição de carreira. Atualmente estudando desenvolvimento Web.
 
 
 <div align="center">

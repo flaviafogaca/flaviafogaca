@@ -1,7 +1,7 @@
 ### Olá! Me chamo Flávia, prazer!
 
 
-- 🌱 Estou em transição de carreira. Atualmente estudando programação front-end.
+🌱 Estou em transição de carreira. Atualmente estudando programação front-end.
 
 
 <div align="center">

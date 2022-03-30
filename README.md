@@ -1,6 +1,8 @@
-### Olá! Eu sou a Flávia Fogaça 👋
+### Olá! Eu sou a Flávia 👋😀
 
-  - 📚 Recentemente iniciei minha transição de carreira e atualmente estou estudando programação web. 
+  - 🌱 Recentemente iniciei minha transição de carreira. Meu foco é ser uma desenvolvedora FullStack
+  - 👩‍💻 Atualmente estudando JS 
+  
 
 <div align="center">
   <a href="https://github.com/flaviafogaca">
@@ -15,10 +17,11 @@
   <img align="center" alt="Flavia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  <br>
 
 <div>
   <a href="https://www.linkedin.com/in/flaviafogaca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:flaviamariafogaca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
   ![Snake animation](https://github.com/flaviafogaca/flaviafogaca/blob/output/github-contribution-grid-snake.svg)

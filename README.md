@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Flávia 👋😀
 
-  - 🌱 Recentemente iniciei minha transição de carreira. Meu objetivo é ser desenvolvedora full stack, mas no momento estou dando faco ao front-end.
+  - 🌱 Recentemente iniciei minha transição de carreira. Meu objetivo é ser desenvolvedora full stack, mas no momento estou dando foco ao front-end.
   - 👩‍💻 Atualmente estudando JavaScript.
   
 

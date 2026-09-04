@@ -22,6 +22,7 @@ jobs:
 
       # Profile stats / top languages card (self-hosted, no third-party service dependency)
       - uses: lowlighter/metrics@latest
+        id: metrics
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: flaviafogaca
@@ -31,6 +32,16 @@ jobs:
           output_action: none
           filename: dist/metrics.svg
           plugins_errors_fatal: yes
+
+      # TEMP DEBUG: remove once metrics.svg shows up on the output branch
+      - name: Debug dist contents
+        if: always()
+        run: |
+          echo "### Debug: dist/ contents" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          find dist -type f 2>&1 >> $GITHUB_STEP_SUMMARY || echo "dist/ missing" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "metrics step outcome: ${{ steps.metrics.outcome }}, conclusion: ${{ steps.metrics.conclusion }}" >> $GITHUB_STEP_SUMMARY
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:

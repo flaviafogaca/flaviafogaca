@@ -1,4 +1,7 @@
-<h1 align="center">Olá, eu sou a Flávia 👋</h1>
+<h1 align="center">
+  <img src="assets/sophie.svg" width="44" alt="Sophie" valign="middle" />
+  Olá, eu sou a Flávia 👋
+</h1>
 
 <p align="center">
   Desenvolvedora em transição de carreira, com foco em Front-end e caminho para Full Stack.

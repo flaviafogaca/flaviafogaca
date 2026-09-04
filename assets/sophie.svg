@@ -1,0 +1,29 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Ícone da gata Sophie</title>
+<desc>Ilustração simples do rosto de uma gata de pelo longo, com manchas castanhas e creme sobre fundo branco, olhos claros e bigodes.</desc>
+<ellipse cx="120" cy="135" rx="78" ry="68" fill="#fffdf9" stroke="#ddd5c5" stroke-width="2"/>
+<ellipse cx="55" cy="175" rx="18" ry="14" fill="#fffdf9" stroke="#ddd5c5" stroke-width="2"/>
+<ellipse cx="45" cy="155" rx="14" ry="18" fill="#fffdf9" stroke="#ddd5c5" stroke-width="2"/>
+<ellipse cx="185" cy="175" rx="18" ry="14" fill="#fffdf9" stroke="#ddd5c5" stroke-width="2"/>
+<ellipse cx="195" cy="155" rx="14" ry="18" fill="#fffdf9" stroke="#ddd5c5" stroke-width="2"/>
+<polygon points="58,78 30,12 96,52" fill="#fffaf0" stroke="#ddd5c5" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="30,12 41.2,38.4 56.4,28" fill="#cf9a52"/>
+<polygon points="182,78 210,12 144,52" fill="#8b7d6b" stroke="#6b5d4f" stroke-width="2" stroke-linejoin="round"/>
+<path d="M150,70 C175,65 195,90 190,120 C188,145 170,165 145,168 C130,170 118,155 122,135 C125,115 130,90 150,70 Z" fill="#8b7d6b"/>
+<circle cx="100" cy="145" r="12" fill="#cf9a52"/>
+<ellipse cx="148" cy="122" rx="28" ry="24" fill="#232323"/>
+<path d="M118,148 C122,140 128,140 132,148 L130,168 C129,172 121,172 120,168 Z" fill="#232323"/>
+<polygon points="112,172 128,172 120,184" fill="#2a2a2a"/>
+<ellipse cx="95" cy="130" rx="14" ry="11" fill="#c3d8dc" stroke="#8fa3a8" stroke-width="1"/>
+<circle cx="95" cy="130" r="5" fill="#1a1a1a"/>
+<circle cx="91" cy="126" r="2" fill="#ffffff"/>
+<ellipse cx="148" cy="122" rx="13" ry="10" fill="#c3d8dc" stroke="#8fa3a8" stroke-width="1"/>
+<circle cx="148" cy="122" r="5" fill="#1a1a1a"/>
+<circle cx="145" cy="119" r="2" fill="#ffffff"/>
+<line x1="88" y1="150" x2="30" y2="138" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="86" y1="158" x2="26" y2="158" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="88" y1="165" x2="30" y2="178" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="152" y1="150" x2="210" y2="138" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="154" y1="158" x2="214" y2="158" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="152" y1="165" x2="210" y2="178" stroke="#c9c2b3" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

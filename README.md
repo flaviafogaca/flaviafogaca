@@ -71,12 +71,6 @@ Landing page full stack responsiva (HTML, CSS, JavaScript), integrada a um banco
 **Landing Page Athomic — Projeto de Extensão (NalaMinds)**
 Desenvolvimento assistido por IA generativa (Lovable) e prototipagem UI/UX no Figma, em colaboração direta com a empresa parceira, simulando um ambiente real de entrega de software.
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flaviafogaca/flaviafogaca/output/metrics.svg" alt="GitHub metrics" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/flaviafogaca/flaviafogaca/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>

@@ -62,6 +62,9 @@
 
 ### 🚀 Projetos em destaque
 
+**Sistema de Controle de Biblioteca — Projeto Integrador (UFMS)** `em desenvolvimento`
+Sistema para a biblioteca municipal de Cristópolis (BA), desenvolvido em dupla como Projeto Integrador ao longo de três semestres: levantamento de requisitos e concepção (PI I) e, atualmente, desenvolvimento e testes (PI II e III).
+
 **[Landing Page — Desafio Furia](https://flaviafogaca.github.io/desafio-lp/)**
 Landing page full stack responsiva (HTML, CSS, JavaScript), integrada a um banco de dados para captura de leads e com automação de e-mail marketing. Prototipada no Figma.
 
